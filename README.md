@@ -1,5 +1,15 @@
 # Travel Bucket List Manager 🌍
 
+![Home Page](https://github.com/taimo0r/Travel-Bucket/blob/main/screenshots/Screenshot%202023-08-18%20at%203.20.52%20AM.png)
+
+![Add Destination](https://github.com/taimo0r/Travel-Bucket/blob/main/screenshots/Screenshot%202023-08-18%20at%203.21.05%20AM.png)
+
+![Notifications Page](https://github.com/taimo0r/Travel-Bucket/blob/main/screenshots/Screenshot%202023-08-18%20at%203.21.19%20AM.png)
+
+![About Us Page](https://github.com/taimo0r/Travel-Bucket/blob/main/screenshots/Screenshot%202023-08-18%20at%203.21.38%20AM.png)
+
+![Contact Us Page](https://github.com/taimo0r/Travel-Bucket/blob/main/screenshots/Screenshot%202023-08-18%20at%203.21.45%20AM.png)
+
 Welcome to the Travel Bucket List Manager! This project was developed as part of the Mobile Web Development course at Fanshawe College. The app is designed to empower travelers to plan and organize their dream travel destinations and experiences with ease.
 
 ## Key Features
